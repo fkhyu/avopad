@@ -19,11 +19,11 @@ github.com/user-attachments/assets/9d2dbd34-54ea-4886-96da-e15d5ccb349e" />
 
 ### bill of materials
 
-| part                   | qty   | notes                                 |
-| ---------------------- | ----- | ------------------------------------- |
-| seeed xiao rp2040      | 1     | Main microcontroller                  |
-| mx-compatible switches | 4     | Any 5-pin or 3-pin switches           |
-| resistors              | 1     | Pull-up (10kΩ) if needed              |
-| TRRS Jack              | 1     | If chaining with other boards         |
-| PCB (2-layer)          | 1     | 100mm x 50mm                          |
-| 3D Printed Case        | 1 set | Top, Middle, Bottom (PLA recommended) |
+| part                   | qty |
+| ---------------------- | --- |
+| seeed xiao rp2040      | 1   |
+| mx-compatible switches | 4   |
+| resistors              | 1   |
+| TRRS Jack              | 1   |
+| PCB (2-layer)          | 1   |
+| 3D Printed Case        | 1   |
