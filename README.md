@@ -12,10 +12,10 @@ This is a compact macropad designed specifically for Avolites lighting consoles.
 
 ## 💡 Images
 
-![Hackpad Front](images/front.png)
-![Schematic](images/schematic.png)
-![PCB](images/pcb.png)
-![Exploded View](images/exploded.png)
+<img width="883" height="653" alt="Screenshot 2025-07-11 at 16 22 48" src="https://![Uploading Screenshot 2025-07-11 at 16.23.43.png…]()
+github.com/user-attachments/assets/9d2dbd34-54ea-4886-96da-e15d5ccb349e" />
+<img width="510" height="522" alt="Screenshot 2025-07-11 at 16 24 10" src="https://github.com/user-attachments/assets/b6d98d96-1e65-4e9e-8c4c-1717d045b5da" />
+<img width="762" height="508" alt="Screenshot 2025-07-11 at 16 24 00" src="https://github.com/user-attachments/assets/72f31261-8990-4e34-92bf-e0ca650b2408" />
 
 ## 🧾 Bill of Materials (BOM)
 
