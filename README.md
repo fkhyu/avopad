@@ -10,7 +10,7 @@ This is AvoPad. Addition to Avolites lighting console used by me and other light
 - 3D printed case
 - Uses Seeed XIAO RP2040 as MCU
 
-## Images
+## Screenshots
 
 <img width="883" height="653" alt="Screenshot 2025-07-11 at 16 22 48" src="https://![Uploading Screenshot 2025-07-11 at 16.23.43.png…]()
 github.com/user-attachments/assets/9d2dbd34-54ea-4886-96da-e15d5ccb349e" />
@@ -28,7 +28,7 @@ github.com/user-attachments/assets/9d2dbd34-54ea-4886-96da-e15d5ccb349e" />
 | PCB (2-layer)          | 1     | 100mm x 50mm                          |
 | 3D Printed Case        | 1 set | Top, Middle, Bottom (PLA recommended) |
 
-## 🛠️ Firmware Setup (KMK)
+## Firmware
 
 The firmware sends HID keypresses that Avolites software interprets as hotkeys (e.g. custom cue triggers).
 
