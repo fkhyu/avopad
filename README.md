@@ -16,6 +16,7 @@ Uses Seeed XIAO RP2040 as MCU
 github.com/user-attachments/assets/9d2dbd34-54ea-4886-96da-e15d5ccb349e" />
 <img width="510" height="522" alt="Screenshot 2025-07-11 at 16 24 10" src="https://github.com/user-attachments/assets/b6d98d96-1e65-4e9e-8c4c-1717d045b5da" />
 <img width="762" height="508" alt="Screenshot 2025-07-11 at 16 24 00" src="https://github.com/user-attachments/assets/72f31261-8990-4e34-92bf-e0ca650b2408" />
+<img width="1044" height="723" alt="Screenshot 2025-07-11 at 17 04 23" src="https://github.com/user-attachments/assets/03a47d2a-6c87-4940-9caa-c7ac36fa6f25" />
 
 ### bill of materials
 
